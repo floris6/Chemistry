@@ -1,0 +1,99 @@
+Acid Name	Formula	Ka
+Acetic acid	HC₂H₃O₂	1.8×10⁻⁵    l
+Acrylic acid	HC₃H₃O₂	5.5×10⁻⁵
+Aluminum 3+ ion	Al³⁺	1.4×10⁻⁵
+Ammonium ion	NH₄⁺	5.6×10⁻¹⁰
+Anilinium ion	C₆H₅NH₃⁺	1.4×10⁻⁵
+Arsenic acid (H₃AsO₄)	H₃AsO₄	6.0×10⁻³
+Arsenic acid (H₂AsO₄⁻)	H₂AsO₄⁻	1.0×10⁻⁷
+Arsenic acid (HAsO₄²⁻)	HAsO₄²⁻	3.2×10⁻¹²
+Arsenous acid	H₃AsO₃	6.6×10⁻¹⁰
+Ascorbic acid (H₂C₆H₆O₆)	H₂C₆H₆O₆	6.8×10⁻⁵
+Ascorbic acid (HC₆H₆O₆⁻)	HC₆H₆O₆⁻	2.8×10⁻¹²
+Bromoacetic acid	HC₂H₂BrO₂	1.3×10⁻³
+Benzoic acid	HC₇H₅O₂	6.3×10⁻⁵
+Beryllium 2+ ion	Be²⁺	3×10⁻⁷
+Boric acid	H₃BO₃	5.9×10⁻¹⁰
+Butyric acid	HC₄H₇O₂	1.5×10⁻⁵
+Carbonic acid (H₂CO₃)	H₂CO₃	4.4×10⁻⁷
+Carbonic acid (HCO₃⁻)	HCO₃⁻	4.7×10⁻¹¹
+Chloroacetic acid	HC₂H₂ClO₂	1.4×10⁻³
+Chlorous acid	HClO₂	1.1×10⁻²
+Chromic acid (H₂CrO₄)	H₂CrO₄	1.5×10⁻¹
+Chromic acid (HCrO₄⁻)	HCrO₄⁻	3.2×10⁻⁷
+Chromium 3+ ion	Cr³⁺	6.6×10⁻⁴
+Citric acid (H₃C₆H₅O₇)	H₃C₆H₅O₇	7.4×10⁻⁴
+Citric acid (H₂C₆H₅O₇⁻)	H₂C₆H₅O₇⁻	1.7×10⁻⁵
+Citric acid (HC₆H₅O₇²⁻)	HC₆H₅O₇²⁻	4.0×10⁻⁷
+Cobalt 2+ ion	Co²⁺	1.3×10⁻⁹
+Codeine ammonium ion	HC₁₈H₂₁O₃N⁺	1.1×10⁻⁸
+Cyanic acid	HOCN	3.5×10⁻⁴
+Dichloroacetic acid	HC₂HCl₂O₂	5.5×10⁻²
+Diethylammonium ion	(C₂H₅)₂NH₂⁺	1.4×10⁻¹¹
+Dimethylammonium ion	(CH₃)₂NH₂⁺	1.7×10⁻¹¹
+Ethylammonium ion	C₂H₅NH₃⁺	2.3×10⁻¹¹
+Ethylenediammonium ion	NH₂CH₂CH₂NH₃⁺	1.9×10⁻¹¹
+Fluoroacetic acid	HC₂H₂FO₂	2.6×10⁻³
+Formic acid	HCHO₂	1.8×10⁻⁴
+Hydrazinium ion	N₂H₅⁺	1.2×10⁻⁸
+Hydrazoic acid	HN₃	1.9×10⁻⁵
+Hydrocyanic acid	HCN	6.2×10⁻¹⁰
+Hydrofluoric acid	HF	6.6×10⁻⁴
+Hydrogen peroxide	H₂O₂	2.2×10⁻¹²
+Hydrogen selenate ion	HSeO₄⁻	2.2×10⁻²
+Hydrogen sulfate ion	HSO₄⁻	1.1×10⁻²
+Hydroselenic acid	H₂Se	1.3×10⁻⁴
+Hydroselenic acid (HSe⁻)	HSe⁻	1×10⁻¹¹
+Hydrosulfuric acid	H₂S	1.0×10⁻⁷
+Hydrosulfuric acid (HS⁻)	HS⁻	1×10⁻¹⁹
+Hydrotelluric acid	H₂Te	2.3×10⁻³
+Hydrotelluric acid (HTe⁻)	HTe⁻	1.6×10⁻¹¹
+Hydroxylammonium ion	HONH₃⁺	1.1×10⁻⁶
+Hypobromous acid	HOBr	2.5×10⁻⁹
+Hypochlorous acid	HClO	2.9×10⁻⁸
+Hypoiodous acid	HOI	2.3×10⁻¹¹
+Hyponitrous acid	H₂N₂O₂	8.9×10⁻⁸
+Hyponitrous acid (HN₂O₂⁻)	HN₂O₂⁻	4×10⁻¹²
+Iodic acid	HIO₃	1.6×10⁻¹
+Iodoacetic acid	HC₂H₂IO₂	6.7×10⁻⁴
+Iron 2+ ion	Fe²⁺	3.2×10⁻¹⁰
+Iron 3+ ion	Fe³⁺	6.3×10⁻³
+Isoquinolinium ion	HC₉H₇N⁺	4.0×10⁻⁶
+Lactic acid	HC₃H₅O₃	1.3×10⁻⁴
+Malonic acid	H₂C₃H₂O₄	1.5×10⁻³
+Malonic acid (HC₃H₂O₄⁻)	HC₃H₂O₄⁻	2.0×10⁻⁶
+Methylammonium ion	CH₃NH₃⁺	2.4×10⁻¹¹
+Morphinium ion	HC₁₇H₁₉O₃N⁺	1.4×10⁻⁸
+Nickel 2+ ion	Ni²⁺	2.5×10⁻¹¹
+Nitrous acid	HNO₂	7.2×10⁻⁴
+Oxalic acid	H₂C₂O₄	5.4×10⁻²
+Oxalic acid (HC₂O₄⁻)	HC₂O₄⁻	5.3×10⁻⁵
+Phenol	C₆H₅OH	1.0×10⁻¹⁰
+Phenylacetic acid	HC₈H₇O₂	4.9×10⁻⁵
+Phosphoric acid (H₃PO₄)	H₃PO₄	7.1×10⁻³
+Phosphoric acid (H₂PO₄⁻)	H₂PO₄⁻	6.3×10⁻⁸
+Phosphoric acid (HPO₄²⁻)	HPO₄²⁻	4.2×10⁻¹³
+Phosphorous acid (H₃PO₃)	H₃PO₃	3.7×10⁻²
+Phosphorous acid (H₂PO₃⁻)	H₂PO₃⁻	2.1×10⁻⁷
+Piperidinium ion	HC₅H₁₁N⁺	7.7×10⁻¹²
+Propionic acid	HC₃H₅O₂	1.3×10⁻⁵
+Pyridinium ion	C₅H₅NH⁺	6.7×10⁻⁶
+Pyrophosphoric acid	H₄P₂O₇	3.0×10⁻²
+Pyrophosphoric acid (H₃P₂O₇⁻)	H₃P₂O₇⁻	4.4×10⁻³
+Pyrophosphoric acid (H₂P₂O₇²⁻)	H₂P₂O₇²⁻	2.5×10⁻⁷
+Pyrophosphoric acid (HP₂O₇³⁻)	HP₂O₇³⁻	5.6×10⁻¹⁰
+Pyruvic acid	HC₃H₃O₃	1.4×10⁻⁴
+Quinolinium ion	HC₉H₇N⁺	1.6×10⁻⁵
+Selenous acid	H₂SeO₃	2.3×10⁻³
+Selenous acid (HSeO₃⁻)	HSeO₃⁻	5.4×10⁻⁹
+Succinic acid	H₂C₄H₄O₄	6.2×10⁻⁵
+Succinic acid (HC₄H₄O₄⁻)	HC₄H₄O₄⁻	2.3×10⁻⁶
+Sulfurous acid	H₂SO₃	1.3×10⁻²
+Sulfurous acid (HSO₃⁻)	HSO₃⁻	6.2×10⁻⁸
+Thiophenol	HSC₆H₅	3.2×10⁻⁷
+Trichloroacetic acid	HC₂Cl₃O₂	3.0×10⁻¹
+Triethanolammonium ion	HC₆H₁₅O₃N⁺	1.7×10⁻⁸
+Triethylammonium ion	(C₂H₅)₃NH⁺	1.9×10⁻¹¹
+Trimethylammonium ion	(CH₃)₃NH⁺	1.5×10⁻¹⁰
+Urea hydrogen ion	NH₂CONH₃⁺	6.7×10⁻¹
+Zinc 2+ ion	Zn²⁺	2.5×10⁻¹⁰
